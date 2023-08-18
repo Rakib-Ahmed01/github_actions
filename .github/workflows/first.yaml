@@ -22,4 +22,4 @@ jobs:
         run: echo "Rakib Ahmed"
 
       - name: List directories
-        run: ls / -L
+        run: ls / -lR
